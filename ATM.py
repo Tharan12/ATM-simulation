@@ -1,8 +1,8 @@
 
 users = {
-    "SBI": {"pin": 123, "balance": 100},
-    "ICICI": {"pin": 456, "balance": 10},
-    "HDFC": {"pin": 789, "balance": 200}
+    "SBI": {"pin": 3456, "balance": 100},
+    "ICICI": {"pin": 4986, "balance": 10},
+    "INDIAN": {"pin": 1239, "balance": 200}
 }
 
 card_name = input("Enter your card name: ")
